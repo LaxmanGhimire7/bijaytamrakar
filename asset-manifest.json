@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bijaytamrakar/static/css/main.c3d19e26.css",
+    "main.js": "/bijaytamrakar/static/js/main.b2f4e1d8.js",
+    "static/js/453.b05d8aa5.chunk.js": "/bijaytamrakar/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mocha.png": "/bijaytamrakar/static/media/mocha.f756c3e538d32b0c5b2e.png",
+    "static/media/bg-light.png": "/bijaytamrakar/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/bijaytamrakar/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/bijay.png": "/bijaytamrakar/static/media/bijay.1d20eb156e4dcad5b2da.png",
+    "static/media/sarangss.jpg": "/bijaytamrakar/static/media/sarangss.5cbd2f3525c2aa3b87d2.jpg",
+    "static/media/restaurant.jpg": "/bijaytamrakar/static/media/restaurant.9e454f142ee3e8670b7c.jpg",
+    "static/media/nabil.jpg": "/bijaytamrakar/static/media/nabil.48e09fa4e76e343cc781.jpg",
+    "static/media/sliders.jpg": "/bijaytamrakar/static/media/sliders.e3c78e4bfafa2a222bcc.jpg",
+    "static/media/sarang.jpg": "/bijaytamrakar/static/media/sarang.0827b5cedde437c0bd1e.jpg",
+    "static/media/sipalaya.jpg": "/bijaytamrakar/static/media/sipalaya.3d1707a9d82a0656b398.jpg",
+    "index.html": "/bijaytamrakar/index.html",
+    "main.c3d19e26.css.map": "/bijaytamrakar/static/css/main.c3d19e26.css.map",
+    "main.b2f4e1d8.js.map": "/bijaytamrakar/static/js/main.b2f4e1d8.js.map",
+    "453.b05d8aa5.chunk.js.map": "/bijaytamrakar/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d19e26.css",
+    "static/js/main.b2f4e1d8.js"
+  ]
+}

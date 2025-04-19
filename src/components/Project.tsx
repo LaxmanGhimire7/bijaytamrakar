@@ -16,39 +16,39 @@ function Project() {
         <div className="project">
                 <a href="https://www.figma.com/design/Tm8YMEj7PBTNyw0EV7EVjx/Sipalaya-infotech?t=LJ2xfPdZpa4yzVTp-1 " target="_blank" rel="noreferrer"><img src={sipalaya} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.figma.com/design/Tm8YMEj7PBTNyw0EV7EVjx/Sipalaya-infotech?t=LJ2xfPdZpa4yzVTp-1 " target="_blank" rel="noreferrer"><h2>Sipalaya Info Tech </h2></a>
-                <p></p>
+                <p>Designed a full UI for Sipalaya Info Tech using Figma.</p>
             </div>
             
             <div className="project">
                 <a href="https://www.figma.com/design/p74FAUkTXq5fcFcRNyciQ5/E-learning?node-id=0-1&p=f&t=rbEcFRsjiHDCbfYZ-0" target="_blank" rel="noreferrer"><img src={sarang} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.figma.com/design/p74FAUkTXq5fcFcRNyciQ5/E-learning?node-id=0-1&p=f&t=rbEcFRsjiHDCbfYZ-0" target="_blank" rel="noreferrer"><h2>Mock Tech</h2></a>
-                <p></p>
+                <p>Designed a e-Commerce platform named Mock Tech which is UX based.</p>
             </div>
             
             <div className="project">
                 <a href="https://www.figma.com/design/w2wSK3HbajC5IJhNUxXEtb/mocha?node-id=0-1&t=zCps0I0g3GS3sDEi-1 " target="_blank" rel="noreferrer"><img src={mocha} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.figma.com/design/w2wSK3HbajC5IJhNUxXEtb/mocha?node-id=0-1&t=zCps0I0g3GS3sDEi-1 " target="_blank" rel="noreferrer"><h2>Mocha</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <p>Developed a Mocha online restaurant in Figma where users can place order, buy items.</p>
             </div>
             <div className="project">
                 <a href="https://www.figma.com/design/gHsmZa4LkFsFPWOTY0P1qk/website?node-id=0-1&t=zCps0I0g3GS3sDEi-1 " target="_blank" rel="noreferrer"><img src={sliders} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.figma.com/design/gHsmZa4LkFsFPWOTY0P1qk/website?node-id=0-1&t=zCps0I0g3GS3sDEi-1 " target="_blank" rel="noreferrer"><h2>Slickdeals</h2></a>
-                <p>This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.</p>
+                <p>Re-designed by taking inspiration from slickdeals.</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={nabil} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>Nabil Bank</h2></a>
-                <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
+                <a href="https://www.figma.com/design/wwNHUdtcDOn2VeAeXCnUH3/Finance?node-id=0-1&t=XsJhT78qBO98nyOU-1 " target="_blank" rel="noreferrer"><img src={nabil} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/wwNHUdtcDOn2VeAeXCnUH3/Finance?node-id=0-1&t=XsJhT78qBO98nyOU-1 " target="_blank" rel="noreferrer"><h2>Nabil Bank</h2></a>
+                <p>Re-designed mobile app of Nabil Bank using Figma where users can withdraw money, transfer balance, check balance and many more functionalities.</p>
             </div>
             <div className="project">
                 <a href="https://www.figma.com/design/AD0yixOdBIp8nl64ViK6RI/Saarang?t=LJ2xfPdZpa4yzVTp-1 " target="_blank" rel="noreferrer"><img src={sarangs} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.figma.com/design/AD0yixOdBIp8nl64ViK6RI/Saarang?t=LJ2xfPdZpa4yzVTp-1 " target="_blank" rel="noreferrer"><h2>Sarang</h2></a>
-                <p>Built official charts for COVID/vaccination tracking for an educational institution using JavaScript and the Google Sheets API v4. The dashboard served the university's leadership in their decision-making processes.</p>
+                <p>Developed a Mobile app named Sarang which can be benificial for tourists to visit different places of Nepal without the need of tourist guide.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><img src={restaurant} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><h2>Restaurant</h2></a>
-                <p>Analyzed the real estate market in Japan and predicted property prices by implementing statistical methods such as OLS and multi-regression analysis. This project leveraged Python and various libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn.</p>
+                <a href="https://www.figma.com/design/dcdei9iOAn5GgPnaoPdmfo/app-website?t=XsJhT78qBO98nyOU-1 " target="_blank" rel="noreferrer"><img src={restaurant} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.figma.com/design/dcdei9iOAn5GgPnaoPdmfo/app-website?t=XsJhT78qBO98nyOU-1 " target="_blank" rel="noreferrer"><h2>Restaurant</h2></a>
+                <p>Designed a mobile app of a food restaurant.</p>
             </div>
            
         </div>

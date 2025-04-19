@@ -14,15 +14,15 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            
+            <a href="https://www.linkedin.com/in/bijay-tamrakar-a59a47344/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Bijay Tamrakar</h1>
           <p>UI/UX Designer</p>
 
           <div className="mobile_social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            
+            <a href="https://www.linkedin.com/in/bijay-tamrakar-a59a47344/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
         </div>
       </div>
